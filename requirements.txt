@@ -1,9 +1,0 @@
-opencv-python
-pyautogui
-pyttsx3
-mss
-pygame
-torch
-keyboard
-pyserial
-gputil
