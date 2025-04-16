@@ -1,7 +1,7 @@
 
 # 🌐 TetraCodex Quantum Network (TQN-2030) – Beyond the Backbone
 
-### 🧬 Project Codename: **TetraYggdrasil**  
+### 🧬 Project Codename: **TetraNexus**  
 ### 🌎 Vision: Full-spectrum post-quantum communications, cryptographic entanglement, and mesh-hardened sovereign dataflow across terrestrial and orbital quantum internets.
 
 ---
