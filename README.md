@@ -4,7 +4,22 @@
 ### 🧬 Project Codename: **TetraNexus**  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15232753.svg)](https://doi.org/10.5281/zenodo.15232753)
 ### 🌎 Vision: Full-spectrum post-quantum communications, cryptographic entanglement, and mesh-hardened sovereign dataflow across terrestrial and orbital quantum internets.
 
----
+## Announcement
+
+### **TetraNexus Now Available on Zenodo and IPFS**
+
+We are proud to announce the release of **TetraNexus**, a **sovereign quantum-enabled trust network**, on **Zenodo** and **IPFS** for public access and long-term archiving. This release includes the **full protocol**, **source code**, and related **documentation**.
+
+#### **Zenodo Link**:
+The official **TetraNexus** project has been archived on **Zenodo** for citation and public access:  
+[**TetraNexus Zenodo Record**](https://zenodo.org/records/15232753)  
+This record includes a **DOI** for proper citation and academic reference.
+
+#### **IPFS Link**:
+In addition, the **TetraNexus** system is available for decentralized, permanent access via **IPFS**:  
+[**TetraNexus IPFS Link**](https://ipfs.io/ipfs/bafybeidvukblzvglrb5wc5t5tygbe7ho6edtgjmmdzf2uexjnscr66kley)  
+By utilizing **IPFS**, the **TetraNexus** project can be accessed without relying on centralized servers, ensuring that it remains available and tamper-proof for the long term.
+
 
 ## 🔭 Overview
 
