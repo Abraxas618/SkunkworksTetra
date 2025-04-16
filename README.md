@@ -103,4 +103,5 @@ TetraCodex builds the trust layer.”
 ---
 
 [☁ Download All Node Builds](https://github.com/Abraxas618/TetraCodex/releases)  
-[📜 Read the Whitepaper](https://github.com/Abraxas618/TetraCodex/Quantum_Network_Whitepaper.pdf)
+[📜 Read the Whitepaper](https://github.com/Abraxas618/TetraNexus/blob/main/TetraNexus_Protocol_Brief_v1.0.pdf)
+See all my other Projects at Abraxas618 Main Github
