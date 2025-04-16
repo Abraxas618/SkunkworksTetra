@@ -18,6 +18,7 @@ This record includes a **DOI** for proper citation and academic reference.
 #### **IPFS Link**:
 In addition, the **TetraNexus** system is available for decentralized, permanent access via **IPFS**:  
 [**TetraNexus IPFS Link**](https://ipfs.io/ipfs/bafybeidvukblzvglrb5wc5t5tygbe7ho6edtgjmmdzf2uexjnscr66kley)  
+https://ipfs.io/ipfs/bafybeidvukblzvglrb5wc5t5tygbe7ho6edtgjmmdzf2uexjnscr66kley
 By utilizing **IPFS**, the **TetraNexus** project can be accessed without relying on centralized servers, ensuring that it remains available and tamper-proof for the long term.
 
 
