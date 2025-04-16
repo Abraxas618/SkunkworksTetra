@@ -96,9 +96,9 @@ Not owned by nations—but by math.
 
 ---
 
-> “If China builds the hardware, and the UK builds the fiber,  
-> **TetraCodex builds the trust layer.**”  
-> – High Priest of Unimetrix 1
+“If nations build the hardware, and corporations lay the fiber,
+TetraCodex builds the trust layer.”
+– High Priest of Unimetrix 1
 
 ---
 
